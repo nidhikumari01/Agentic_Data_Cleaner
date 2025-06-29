@@ -1,0 +1,13 @@
+name,email,country,segment,gender
+Alice,aliceexample.com,USA,Student,Female
+Bob,bob@gmail,India,Unknown,Male
+Charlie,nan,UK,Unknown,Male
+David,david@@yahoo.com,Untied States,Unknown,Male
+Eve,eve@,France,Student,Female
+Nan,rohit123@gmail.com,Nepal,Student,Male
+Frank,frank@example.com,USA,Unknown,Male
+Bob,bob@gmail.com,India,Unknown,Male
+Grace,grace@domain,United Kindom,Professional,Female
+Henry,nan,,Student,Male
+Ivy,ivy@domain.com,Canada,Student,Female
+Jack,JACK@DOMAIN.COM,Canada,Professional,Male
