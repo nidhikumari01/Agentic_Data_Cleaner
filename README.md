@@ -40,5 +40,6 @@ pip install -r requirements.txt
 ## Run the Streamlit UI
 
 streamlit run app.py
+
 Upload sample.csv file 
 
