@@ -37,6 +37,10 @@ This project implements a modular **agent-based data cleaning system** that proc
 
 pip install -r requirements.txt
 
+*Add groq cloud api_key in .env file
+
+https://console.groq.com/playground
+
 ## Run the Streamlit UI
 
 streamlit run app.py
